@@ -4,7 +4,7 @@ import {FiHeadphones} from "react-icons/fi"
 import {TiPlaneOutline} from "react-icons/ti"
 import { FaCameraRetro, FaSwimmer} from "react-icons/fa"
 import {GiCook} from "react-icons/gi"
-
+import {AiFillCustomerService} from "react-icons/ai"
 
  
 
@@ -16,17 +16,17 @@ export const servicesData = [
         icon: < FiHeadphones/>
     },
     
-
+    {
+        id: 3,
+        title: 'Dancing',
+        icon: <AiFillCustomerService />
+    },
     {
         id: 2,
         title: 'Travelling',
         icon: <TiPlaneOutline/>
     },
-    {
-        id: 3,
-        title: 'Photography',
-        icon: <FaCameraRetro />
-    },
+   
     
     {
         id: 4,

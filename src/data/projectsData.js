@@ -4,7 +4,7 @@ export const projectsData = [
     {
         id: 1,
         projectName: 'Sports-Jam-Clone',
-        projectDesc: 'An online website and application to buy sports product',
+        projectDesc: 'A website facilitating to buying of sports equipment and apparel.',
         tags: ["React", "Redux", "Html","Css"],
          logos: ["fab fa-react","fab fa-html5","fab fa-css3","fab fa-js",],
         code: 'https://github.com/nagesh199/SportsJam-clone',
@@ -25,7 +25,7 @@ export const projectsData = [
     {
         id: 3,
         projectName: 'credo-beauty-clone',
-        projectDesc: ' An online website and application to buy beauty apparent',
+        projectDesc: ' A web application to buy makeup and screen care products.',
         tags: ["Html", "css", "javascript"],
         logos: ["fab fa-html5","fab fa-css3","fab fa-js"],
         code: 'https://github.com/nagesh199/credo-beauty-clone',

@@ -1,9 +1,7 @@
 export const aboutData = {
     title: "Who I am",
-    description1: `Dedicated and discipline Full-Stack Web Developer with an expertise in 
-    MERN Stack. Innovative and qurious to build product centric and user -
-    friendly web-site and web-application . Looking forward to working an 
-    technology and challenge driven environment .
+    description1: `I am a Dedicated and self-disciplined Full-Stack Web Developer with the MERN Stack. It is an innovative experience and a privilege to build product-centric and user-friendly websites and web-applications.
+     I am looking forward to working in a technology and challenge-driven environment.
      `,
     description2: "",
     image: 2

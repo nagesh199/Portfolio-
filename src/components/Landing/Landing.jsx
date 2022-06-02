@@ -97,7 +97,7 @@ function Landing() {
                             <Typewriter
                             options={{
                                 strings: [
-                                "FrontEnd Developer",
+                                "Frontend Developer",
                                 "Backend Developer",
                                 "MERN Stack Developer",
                                 "Agriculture Engineer"
@@ -117,7 +117,7 @@ function Landing() {
                         <div style={{position:"relative",margin:"10% auto",width:"70%",marginBottom:"10%"}} className="lcr-buttonContainer">
                             <div style={{marginBottom:"30px"}}>
                                 {headerData.resumePdf && (
-                                <a href="https://drive.google.com/file/d/1GiLj-cW9wqfWnDXFyzxRNU0kp1bZMy0f/view?usp=sharing" target="_blank">
+                                <a href="https://drive.google.com/file/d/1YSWCCyr4LsUuUAQqc5eH8nHPyYIJIMgG/view?usp=sharing" target="_blank">
                                    
                                     <Button className={classes.resumeBtn}>Download CV</Button>
                                     
