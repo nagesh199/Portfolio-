@@ -1,1 +1,1 @@
-# deploy link - https://portfolio-fxrbqbnsa-nagesh199.vercel.app/
+# deploy link - https://portfolio-nagesh199.vercel.app/
