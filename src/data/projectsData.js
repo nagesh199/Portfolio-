@@ -52,7 +52,7 @@ export const projectsData = [
         logos: ["fab fa-css3","fab fa-vuejs", "fas fa-database", "fab fa-js", "fab fa-node"],
         code: 'https://github.com/nagesh199/Cricinfo-Clone',
         demo: 'https://espncricinfo-clone.netlify.app/',
-        image: "https://getsarkarinaukari.co.in/wp-content/uploads/2022/06/1655436477_photo.jpg"
+        image: "https://m.cricbuzz.com/a/img/v1/600x400/i1/c236079/england-now-occupy-the-top-three-positions-for-highest-innings-totals-in-odis.jpg"
     },
     // {
     //     id: 5,
