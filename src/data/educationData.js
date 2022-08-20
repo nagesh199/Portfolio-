@@ -17,7 +17,7 @@ export const educationData = [
     {
         id: 3,
         institution: 'Genius Public Higher Secondary School , Jaora (M.P.)',
-        course: '12th',
+        course: 'Higher Secondary Education',
         // startYear: '2005',
         // endYear: '2015'
     },
